@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Niconne';
+    src: url('Niconne-Regular.woff2') format('woff2'),
+        url('Niconne-Regular.woff') format('woff'),
+        url('Niconne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
